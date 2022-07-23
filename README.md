@@ -1,4 +1,4 @@
-## Rewritten doom-one.nvim (Personal Use Purpose)
+## doom-one.nvim (Rewritten)
 
 ## Features
 
