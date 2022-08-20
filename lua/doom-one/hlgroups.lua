@@ -429,7 +429,7 @@ function M.setup(colors, config)
     TSDanger = { link = 'ErrorMsg' },
     TSType = { link = 'Type' },
     TSTypeBuiltin = { link = 'TypeBuiltin' },
-    TSVariable = { link = 'None' },
+    TSVariable = { link = 'Variable' },
     TSVariableBuiltin = { link = 'VariableBuiltin' },
   }
 
